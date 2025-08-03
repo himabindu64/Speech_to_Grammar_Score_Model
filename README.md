@@ -1,4 +1,4 @@
-# SHL-Hiring-Assessment
+
 # Grammar Scoring Engine for Spoken Audio
 
 This notebook presents a machine learning pipeline to predict grammar scores from spoken audio files based on Mean Opinion Scores (MOS) on a Likert scale ranging from 1 to 5.
